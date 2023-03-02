@@ -1,7 +1,5 @@
 # Students Reporting System 
 Students Reporting System  spring boot application
-![Students_reporting_System](https://www.google.com/search?q=student+reporting+system+logo&tbm=isch&ved=2ahUKEwio_Lm_3rz9AhXN9nMBHSFZCH8Q2-cCegQIABAA&oq=student+reporting+system+logo&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQGFCPAljnD2DIEmgAcAB4AIABXYgBjASSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=T1IAZOiYAs3tz7sPobKh-Ac&bih=746&biw=1536&rlz=1C1FHFK_enIN989IN989#imgrc=Tey4EiLUrud4zM)
-
 
 *** Technologies and Dependencies Used
 - Java (Efficient language to handle backend operations)
